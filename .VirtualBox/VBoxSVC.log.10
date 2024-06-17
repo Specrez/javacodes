@@ -1,0 +1,234 @@
+00:00:00.005387 main     VirtualBox COM Server 7.0.8 r156879 win.amd64 (Apr 17 2023 16:42:53) release log
+00:00:00.005389 main     Log opened 2023-09-19T01:29:38.279756700Z
+00:00:00.005389 main     Build Type: release
+00:00:00.005392 main     OS Product: Windows 11
+00:00:00.005393 main     OS Release: 10.0.22621
+00:00:00.005393 main     OS Service Pack: 
+00:00:00.039155 main     DMI Product Name: Katana GF66 11UC
+00:00:00.050610 main     DMI Product Version: REV:1.0
+00:00:00.050619 main     Firmware type: UEFI
+00:00:00.051166 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.051190 main     Host RAM: 16085MB (15.7GB) total, 8848MB (8.6GB) available
+00:00:00.051202 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.051202 main     Process ID: 20252
+00:00:00.051203 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.151987          VirtualBox: object creation starts
+00:00:00.154917          Home directory: 'C:\Users\oshad\.VirtualBox'
+00:00:00.155725          Installed Drivers:
+00:00:00.159315            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.8.6879)
+00:00:00.160552            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.8.6879)
+00:00:00.162391            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 7.0.8.6879)
+00:00:00.163600            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.8.6879)
+00:00:00.183644          Loading settings file "C:\Users\oshad\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.194904          usbLibGetDevices: Starting USB device enumeration
+00:00:00.225945          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1a78c827&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+00:00:00.228126          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.230850          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.509283          HostDnsMonitor: initializing
+00:00:00.519417          HostDnsMonitor: updating information
+00:00:00.520588          HostDnsMonitor: old information
+00:00:00.520589            no server entries
+00:00:00.520589            no domain set
+00:00:00.520590            no search string entries
+00:00:00.520590          HostDnsMonitor: new information
+00:00:00.520590            server 1: 192.168.17.238
+00:00:00.520591            no domain set
+00:00:00.520591            no search string entries
+00:00:00.567136          VD: VDInit finished with VINF_SUCCESS
+00:00:00.592523          Loading settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:00:00.610540          Loading settings file "C:\Users\oshad\VirtualBox VMs\oshadha2\oshadha2.vbox" with version "1.19-windows"
+00:00:00.613012          VirtualBox: object created
+00:00:00.753973          Saving settings file "C:\Users\oshad\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.759478          Finished saving settings file "C:\Users\oshad\.VirtualBox\VirtualBox.xml"
+00:00:00.759856          Saving settings file "C:\Users\oshad\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.763927          Finished saving settings file "C:\Users\oshad\.VirtualBox\VirtualBox.xml"
+00:00:00.764219          Saving settings file "C:\Users\oshad\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.768630          Finished saving settings file "C:\Users\oshad\.VirtualBox\VirtualBox.xml"
+00:00:02.379951          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:04.351654          Launched VM: 3159547264 pid: 17524 (0x4474) frontend: GUI/Qt name: oshadha
+00:00:04.375695          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:09.787200          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:10.215954          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:13.055172          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:13.525187          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:13.533437          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:00:15.039675          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:15.091032          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:01:35.672280          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:01:35.717792          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:01:35.733253          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:01:44.512361          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:01:44.555111          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:01:44.575241          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:02:55.218538          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:02:55.260548          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:02:55.269637          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:02:55.748294          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:02:55.790529          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:02:55.800889          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:17:56.666856 dns-monitor HostDnsMonitor: updating information
+00:17:56.666898 dns-monitor HostDnsMonitor: unchanged
+00:18:19.124252          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:18:19.167477          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:18:19.181689          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:18:43.191581          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:18:43.234382          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:18:43.246316          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:19:14.535829          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:19:14.581369          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:19:14.601056          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:19:15.220816          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:19:15.262865          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:19:15.273260          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:19:30.217639          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:19:30.260602          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:19:30.270253          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:24:03.922862          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:24:03.926976          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:24:03.944768          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:26:24.031826          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:26:24.077163          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:26:24.090651          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:26:24.984792          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:26:25.029236          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:26:25.039198          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:27:03.482288          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:27:03.525715          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:27:03.536684          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:27:04.202411          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:27:04.246472          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:27:04.257714          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:27:10.733031          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:27:10.750228          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:27:10.759440          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:27:12.750193          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:27:12.793633          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:27:12.813265          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:27:13.813327          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:27:13.855845          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:27:13.872603          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:27:18.686116          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:27:18.729679          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:27:18.738666          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:27:45.219815          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:27:45.265483          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:27:45.278112          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:30:41.325124          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:30:41.368583          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:30:41.385216          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:30:42.752418          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+00:30:42.796933          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+00:30:42.809372          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:47:55.845661 dns-monitor HostDnsMonitor: updating information
+00:47:55.845719 dns-monitor HostDnsMonitor: unchanged
+01:15:16.550226 MainPower Host suspending: Paused 1 VMs
+01:15:16.650977          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+01:15:17.148628 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:15:17.173491 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1a78c827&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+01:15:17.173973 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+01:45:40.512840 MainPower Host resumed: Resumed 1 VMs
+01:45:41.322799          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:45:41.926444 dns-monitor HostDnsMonitor: updating information
+01:45:41.926700 dns-monitor HostDnsMonitor: old information
+01:45:41.926712 dns-monitor   server 1: 192.168.17.238
+01:45:41.926734 dns-monitor   no domain set
+01:45:41.926739 dns-monitor   no search string entries
+01:45:41.926746 dns-monitor HostDnsMonitor: new information
+01:45:41.926752 dns-monitor   no server entries
+01:45:41.926758 dns-monitor   no domain set
+01:45:41.926764 dns-monitor   no search string entries
+01:45:51.697922          Saving settings file "C:\Users\oshad\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:45:51.702265          Finished saving settings file "C:\Users\oshad\.VirtualBox\VirtualBox.xml"
+01:45:51.762502          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+01:45:51.765285          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+01:45:51.770620          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:46:27.011009          Saving settings file "C:\Users\oshad\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:46:27.014019          Finished saving settings file "C:\Users\oshad\.VirtualBox\VirtualBox.xml"
+01:48:10.071025 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:48:10.093436 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1a78c827&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+01:48:10.093572 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+01:57:21.370891 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:57:21.393477 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1a78c827&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+01:57:21.393593 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+02:02:55.290561 dns-monitor HostDnsMonitor: updating information
+02:02:55.290613 dns-monitor HostDnsMonitor: old information
+02:02:55.290617 dns-monitor   no server entries
+02:02:55.290620 dns-monitor   no domain set
+02:02:55.290622 dns-monitor   no search string entries
+02:02:55.290625 dns-monitor HostDnsMonitor: new information
+02:02:55.290628 dns-monitor   server 1: 192.168.17.238
+02:02:55.290631 dns-monitor   no domain set
+02:02:55.290633 dns-monitor   no search string entries
+02:03:04.656471 dns-monitor HostDnsMonitor: updating information
+02:03:04.656498 dns-monitor HostDnsMonitor: unchanged
+02:08:14.900681 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:08:14.925148 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1a78c827&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+02:08:14.925270 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+02:09:44.932046          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+02:09:44.945530          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+02:09:44.955540          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:09:48.744942          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+02:09:48.758152          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+02:09:48.762302          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:09:51.244871          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+02:09:51.258080          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+02:09:51.262490          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:09:54.262292          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+02:09:54.276920          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+02:09:54.281820          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:09:55.855653          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+02:09:55.868803          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+02:09:55.872776          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:09:59.729554          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+02:09:59.742668          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+02:09:59.746674          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:10:00.308767          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+02:10:00.311298          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+02:10:00.316297          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:10:10.540880          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+02:10:10.554304          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+02:10:10.558564          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:25:39.176344 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:25:39.200533 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1a78c827&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+02:25:39.200674 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+02:33:03.241656 dns-monitor HostDnsMonitor: updating information
+02:33:03.241728 dns-monitor HostDnsMonitor: unchanged
+02:45:26.018202 MainPower Host suspending: Paused 1 VMs
+02:45:26.041826          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+02:45:26.645763 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:45:26.700206 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1a78c827&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+02:45:26.700319 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+02:51:28.955146 MainPower Host resumed: Resumed 1 VMs
+02:51:29.037177          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+02:51:29.985542 dns-monitor HostDnsMonitor: updating information
+02:51:29.985566 dns-monitor HostDnsMonitor: unchanged
+02:57:05.345276 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:57:05.370167 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1a78c827&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 14
+02:57:05.370279 USBPROXY usbLibGetDevices: Found 2 USB devices, 0 captured
+03:01:44.590623          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+03:01:44.604021          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+03:01:44.618227          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+03:05:52.763143          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+03:05:52.777209          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+03:05:52.785211          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+03:07:59.760937          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+03:07:59.774438          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+03:07:59.779271          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+03:08:00.649996          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+03:08:00.663595          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+03:08:00.667354          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+03:08:04.432059          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+03:08:04.445723          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+03:08:04.450427          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+03:08:23.510162          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Stopping)}, preserve=false aResultDetail=0
+03:08:23.666523          Saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox" with version "1.19-windows"
+03:08:23.669173          Finished saving settings file "C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vbox"
+03:08:23.682693          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+03:08:25.180985          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+03:08:35.118699 main     VirtualBox: object deletion starts
+03:08:35.118784 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\oshad\VirtualBox VMs\oshadha\oshadha.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+03:08:35.120148 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\oshad\VirtualBox VMs\oshadha2\oshadha2.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+03:08:35.121052 main     HostDnsMonitor: shutting down ...
+03:08:35.121192 main     HostDnsMonitor: shut down
+03:08:35.123377 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+03:08:35.123774 main     VirtualBox: object deleted

@@ -1,0 +1,23 @@
+00:00:00.527481 VirtualBox GUI VM Selector Window 7.0.8 r156879 win.amd64 (Apr 17 2023 16:42:53) release log
+00:00:00.527482 Log opened 2023-10-08T05:02:18.265482900Z
+00:00:00.527483 Build Type: release
+00:00:00.527484 OS Product: Windows 11
+00:00:00.527485 OS Release: 10.0.22621
+00:00:00.527485 OS Service Pack: 
+00:00:00.537093 DMI Product Name: Katana GF66 11UC
+00:00:00.539362 DMI Product Version: REV:1.0
+00:00:00.539369 Firmware type: UEFI
+00:00:00.539544 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.539555 Host RAM: 16085MB (15.7GB) total, 9874MB (9.6GB) available
+00:00:00.539558 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.539558 Process ID: 26076
+00:00:00.539558 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.539632 Qt version: 5.15.2
+00:00:00.540007 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.556662 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.489026 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:13.408446 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:16.724951 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:18.600756 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:11:47.046952 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:11:47.047042 Log rotated - Log started 2023-10-08T05:02:18.265482900Z
